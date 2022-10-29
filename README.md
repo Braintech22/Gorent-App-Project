@@ -1,9 +1,7 @@
 
-!Go Rent App(https://github.com/Braintech22/Gorent-App-Project/blob/main/src/Assets/Group%202(1).png)
 
-![Group 2(1)](https://user-images.githubusercontent.com/101404861/198827649-e959f9aa-2e98-4809-85e7-452aac4ac5fc.png)
+# Getting Started with Create React App![Group 2(1) 1](https://user-images.githubusercontent.com/101404861/198828395-c2db3b9b-fef0-481b-bf65-c31c2c14f333.png)
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
