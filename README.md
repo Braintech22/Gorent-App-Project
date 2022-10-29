@@ -1,6 +1,6 @@
 
 
-# Getting Started with Create React App![Group 2(1) 1](https://user-images.githubusercontent.com/101404861/198828395-c2db3b9b-fef0-481b-bf65-c31c2c14f333.png)
+# Go Rent Project by Jimmy ![Group 2(1) 1](https://user-images.githubusercontent.com/101404861/198828395-c2db3b9b-fef0-481b-bf65-c31c2c14f333.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
